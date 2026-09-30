@@ -24,3 +24,14 @@ export const logos = [
   { name: "celestial", image: celestialLogo },
   { name: "Twice", image: twiceLogo }
 ]
+export const introductionText = "You are racing to create exceptionally work, but traditional design tools slow you down with unnecessary complexity and steep learning curves."
+
+export const features = [
+  "Asset Library",
+  "Code Preview",
+  "Flow Mode",
+  "Smart Sync",
+  "Auto Layout",
+  "Fast Search",
+  "Smart Guides"
+]
