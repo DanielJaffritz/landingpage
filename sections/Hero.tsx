@@ -4,6 +4,7 @@ import designExample1Image from "@/public/design-example-1.png"
 import designExample2Image from "@/public/design-example-2.png"
 import Image from "next/image";
 
+
 export default function Hero() {
   return (
     <section className="py-24 overflow-x-clip">

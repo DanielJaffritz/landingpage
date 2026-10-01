@@ -75,3 +75,8 @@ export const faqs = [
   },
 ];
 
+export const footerLinks = [
+  { href: "#", label: "Content" },
+  { href: "#", label: "Privacy Policy" },
+  { href: "#", label: "Terms & Conditions" }
+]
